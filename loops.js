@@ -19,5 +19,5 @@ function whileLoop(number) {
   return string ; 
 }
 
-
+function doWhileLoop  
 
