@@ -1,5 +1,5 @@
 
-var i = 0;
+var i = 1;
  
 function incrementVariable() {
   i = i + 1;
