@@ -27,7 +27,7 @@ function whileLoop(number) {
   return string ; 
 }
 
-function doWhileLoop(integer) {
+function doWhileLoop(num) {
   
 }
 
