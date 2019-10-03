@@ -12,7 +12,7 @@ function forLoop(array) {
 }
 
 function whileLoop(number) {
-  let string = 'done' ;
+  const string = 'done' ;
   while (number > 0 ) {
     console.log(--number) ; 
   }
